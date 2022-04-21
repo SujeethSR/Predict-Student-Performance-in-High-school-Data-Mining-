@@ -1,2 +1,2 @@
 # Predict-Student-Performance-in-High-school-Data-Mining-
-the first project in data analytics after the course completion and also I have attached the certificate.
+I've included the first project in data analytics that I completed after finishing the course.
